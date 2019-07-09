@@ -1,0 +1,28 @@
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\bin\Debug\ProjetoCRUDFornecedor.exe.config
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\bin\Debug\ProjetoCRUDFornecedor.exe
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\bin\Debug\ProjetoCRUDFornecedor.pdb
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.csprojAssemblyReference.cache
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.Form1.resources
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.Fornecedor.resources
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.Properties.Resources.resources
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.csproj.GenerateResource.cache
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.csproj.CoreCompileInputs.cache
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.exe
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.pdb
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\bin\Debug\Dapper.dll
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\bin\Debug\Dapper.xml
+C:\Users\WaLLySoN\source\repos\ProjetoCRUDFornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.csproj.CopyComplete
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\bin\Debug\ProjetoCRUDFornecedor.exe.config
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\bin\Debug\ProjetoCRUDFornecedor.exe
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\bin\Debug\ProjetoCRUDFornecedor.pdb
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\bin\Debug\Dapper.dll
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\bin\Debug\Dapper.xml
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.csprojAssemblyReference.cache
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.Form1.resources
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.Fornecedor.resources
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.Properties.Resources.resources
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.csproj.GenerateResource.cache
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.csproj.CoreCompileInputs.cache
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDFornecedor\obj\Debug\ProjetoCRUDFornecedor.csproj.CopyComplete
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.exe
+C:\Users\WaLLySoN\Documents\SQL Server Management Studio\ProjetoCRUDfornecedor\ProjetoCRUDfornecedor\obj\Debug\ProjetoCRUDFornecedor.pdb

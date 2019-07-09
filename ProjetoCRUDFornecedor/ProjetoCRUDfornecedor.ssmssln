@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ProjetoCRUDfornecedor", "ProjetoCRUDfornecedor\ProjetoCRUDfornecedor.ssmssqlproj", "{C3F2D7B6-186D-4CBF-B76F-DFF8CE6B58FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F2D7B6-186D-4CBF-B76F-DFF8CE6B58FF}.Default|Default.ActiveCfg = Default
+		{003B8F8E-163E-4EC7-8627-EE71D0F28C79}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
